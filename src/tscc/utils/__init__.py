@@ -1,0 +1,1 @@
+from tscc.version import __version__
